@@ -1,0 +1,4 @@
+The table name;Id;Field name;"English
+name";Description;Field type;Unique;Obligatory;Length;The number of decimal places
+Справочник кодов, определяющих налоговый (отчетный) период;KOD;Код;Code;Код налогового (отчетного) периода;Char;Yes;Yes;2;
+;NAIM;Наименование;Name;Наименование налогового (отчетного) периода;Char;no;Yes;250;
